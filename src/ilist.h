@@ -1,4 +1,8 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
+/*
+ * Copyright(c) 2021 Sanpe <sanpeqf@gmail.com>
+ */
+
 #ifndef _ILIST_H_
 #define _ILIST_H_
 
